@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I’m Diogo Gouveia!
+## 👋 Hi, I’m Diogo Gouveia!
 🚀 I am an ambitious Software Developer with an MS in Electrical and Computer Engineering. Skilled with multiple Frontend and Backend programming languages, I am enthusiastic about Fullstack/Mobile development and committed to tackling real-world challenges. My academic journey and personal projects solidify my dedication to overcoming technological boundaries and applying innovative solutions.<br><br>🌱 I'm always open to collaboration on AI-powered apps, or any exciting full-stack projects!<br>🐾 When I'm not coding, you might find me volunteering at local animal shelters or exploring new tech trends.
 
 
@@ -12,9 +12,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSGouveia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DiogoSGouveia&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
