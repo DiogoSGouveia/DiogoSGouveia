@@ -1,5 +1,7 @@
 # 💫 About Me:
-Ambitious Software Developer with an MSc in Electrical and Computer Engineering. Skilled with multiple Front-End and Back-End programming languages, I am enthusiastic about Full-Stack and committed to tackling real-world challenges. My academic journey and personal projects solidify my dedication to overcoming technological boundaries and applying innovative solutions.<br><br>🌱 I'm always open to collaboration on AI-powered apps, or any exciting full-stack projects!<br>🐾 When I'm not coding, you might find me volunteering at local animal shelters or exploring new tech trends.
+
+👋 Hi, I’m Diogo Gouveia!
+🚀 I am an ambitious Software Developer with an MS in Electrical and Computer Engineering. Skilled with multiple Frontend and Backend programming languages, I am enthusiastic about Fullstack/Mobile development and committed to tackling real-world challenges. My academic journey and personal projects solidify my dedication to overcoming technological boundaries and applying innovative solutions.<br><br>🌱 I'm always open to collaboration on AI-powered apps, or any exciting full-stack projects!<br>🐾 When I'm not coding, you might find me volunteering at local animal shelters or exploring new tech trends.
 
 
 ## 🌐 Socials:
